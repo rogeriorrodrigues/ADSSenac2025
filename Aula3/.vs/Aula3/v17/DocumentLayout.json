@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|c:\\users\\roger\\source\\repos\\senac\\aula3\\aula3\\aula3\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|solutionrelative:aula3\\aula3\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|c:\\users\\roger\\source\\repos\\senac\\aula3\\aula3\\aula3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|solutionrelative:aula3\\aula3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|c:\\users\\roger\\source\\repos\\senac\\aula3\\aula3\\aula3\\dto\\viacepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|solutionrelative:aula3\\aula3\\dto\\viacepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|c:\\users\\roger\\source\\repos\\senac\\aula3\\aula3\\aula3\\aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C311B32-BC5E-48F7-A75B-682E4BD28854}|Aula3\\Aula3\\Aula3.csproj|solutionrelative:aula3\\aula3\\aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aula3\\Aula3\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\MainPage.xaml.cs",
+              "RelativeToolTip": "Aula3\\Aula3\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:49:16.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aula3",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\Aula3.csproj",
+              "RelativeDocumentMoniker": "Aula3\\Aula3\\Aula3.csproj",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\Aula3.csproj",
+              "RelativeToolTip": "Aula3\\Aula3\\Aula3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T20:43:39.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViaCepDTO.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\DTO\\ViaCepDTO.cs",
+              "RelativeDocumentMoniker": "Aula3\\Aula3\\DTO\\ViaCepDTO.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\DTO\\ViaCepDTO.cs",
+              "RelativeToolTip": "Aula3\\Aula3\\DTO\\ViaCepDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:43:54.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Aula3\\Aula3\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula3\\Aula3\\Aula3\\MainPage.xaml",
+              "RelativeToolTip": "Aula3\\Aula3\\MainPage.xaml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T17:26:20.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
