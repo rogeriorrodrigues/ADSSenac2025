@@ -25,8 +25,8 @@ namespace Aula3
             {
                 var response = await client.GetStringAsync(url);
                 var data = JsonConvert.DeserializeObject<ViaCepDTO>(response);
-                return
-                    $"CEP: {data.Cep}, Logradouro: {data.Logradouro}, Bairro: {data.Bairro}, Localidade: {data.Localidade}, UF: {data.Uf}";
+                
+                return $"CEP: {data.Cep}, Logradouro: {data.Logradouro}, Bairro: {data.Bairro}, Localidade: {data.Localidade}, UF: {data.Uf}";
             }
         }
     }
