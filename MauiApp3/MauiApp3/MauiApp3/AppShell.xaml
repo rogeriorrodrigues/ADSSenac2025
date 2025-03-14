@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MauiApp3.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MauiApp3"
+    Shell.FlyoutBehavior="Flyout"
+    Title="MauiApp3">
+
+    <FlyoutItem Title="Home" Icon="globe.png">
+        <ShellContent
+            Title="Simple Page"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+    </FlyoutItem>
+    <FlyoutItem Title="Home" Icon="globe.png">
+        <ShellContent
+            Title="Grid"
+            ContentTemplate="{DataTemplate local:GridPage}"
+            Route="GridPage" />
+    </FlyoutItem>
+    <FlyoutItem Title="Listview" Icon="globe.png">
+        <ShellContent
+            Title="Listview"
+            ContentTemplate="{DataTemplate local:ListViewPage}"
+            Route="ListViewPage" />
+    </FlyoutItem>
+
+
+</Shell>

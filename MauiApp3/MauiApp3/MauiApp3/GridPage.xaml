@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp3.GridPage"
+             Title="GridPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="*"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <BoxView Color="Green"></BoxView>
+        <Label x:Name="lblEstado"
+              HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"></Label>
+        <BoxView Grid.Row="0" Grid.Column="1" Color="Chartreuse"></BoxView>
+        <Label Grid.Row="0" Grid.Column="1" Text="Linha 0, Coluna 1"
+               HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"></Label>
+        <BoxView Grid.Row="0" Grid.Column="2" Color="DeepSkyBlue"></BoxView>
+        <Label Grid.Row="0" Grid.Column="2" x:Name="lblBairro"
+              HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"></Label>
+
+        <BoxView Grid.Row="1" Color="BurlyWood"></BoxView>
+        <Label x:Name="lblLogradouro" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"></Label>
+        <BoxView Grid.Row="1" Grid.Column="1" Color="Aquamarine"></BoxView>
+        <Label Grid.Row="1" Grid.Column="1" Text="Linha 1, Coluna 1"
+              HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"></Label>
+        <BoxView Grid.Row="1" Grid.Column="2" Color="DarkGoldenrod"></BoxView>
+        <Label x:Name="lblCidade" Grid.Row="1" Grid.Column="2" 
+              HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black"></Label>
+        <BoxView Grid.Row="2" Grid.Column="1" Color="DarkOrange"></BoxView>
+        <Button Grid.Row="2" Grid.Column="1" Height="50" Width="170" x:Name="btnConsultarCep" Text="Consultar" BackgroundColor="Beige"
+                Clicked="BtnConsultarCep_OnClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"></Button>
+
+        <VerticalStackLayout Grid.Row="2" Grid.Column="2">
+            <BoxView Grid.Row="2" Grid.Column="2" Color="Fuchsia"></BoxView>
+            <Entry x:Name="txtCep" Grid.Row="2" Grid.Column="2"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   Height="50"
+                   Width="150"
+                   Placeholder="Insira aqui o CEP"></Entry>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
