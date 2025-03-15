@@ -1,0 +1,8 @@
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\Aula4.WinUI.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\App.g.i.cs
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\App.g.cs
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\App.xaml
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\App.xbf
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\roger\source\repos\SENAC\Aula4\Aula4\Aula4.WinUI\obj\x64\Debug\net9.0-windows10.0.19041.0\win10-x64\Aula4.WinUI.GeneratedMSBuildEditorConfig.editorconfig
