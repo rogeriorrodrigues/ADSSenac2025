@@ -1,0 +1,14 @@
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.AssemblyInfo.cs
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.sourcelink.json
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\bin\Debug\net9.0\Aula05MvvmAlerts.deps.json
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\bin\Debug\net9.0\Aula05MvvmAlerts.dll
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\bin\Debug\net9.0\Aula05MvvmAlerts.pdb
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\XamlC.stamp
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.dll
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\refint\Aula05MvvmAlerts.dll
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\Aula05MvvmAlerts.pdb
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts\obj\Debug\net9.0\ref\Aula05MvvmAlerts.dll

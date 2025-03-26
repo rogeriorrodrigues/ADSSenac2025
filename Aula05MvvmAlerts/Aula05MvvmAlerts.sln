@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAlerts", "Aula05MvvmAlerts\Aula05MvvmAlerts\Aula05MvvmAlerts.csproj", "{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAlerts.Droid", "Aula05MvvmAlerts\Aula05MvvmAlerts.Droid\Aula05MvvmAlerts.Droid.csproj", "{A54DF976-0AEF-47EB-8A5E-969D4CA7546C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAlerts.iOS", "Aula05MvvmAlerts\Aula05MvvmAlerts.iOS\Aula05MvvmAlerts.iOS.csproj", "{B7364038-B264-42B7-A683-F33949D523D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAlerts.Mac", "Aula05MvvmAlerts\Aula05MvvmAlerts.Mac\Aula05MvvmAlerts.Mac.csproj", "{8778DFC5-DEE9-4951-AC67-ADEBA4D64527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAlerts.WinUI", "Aula05MvvmAlerts\Aula05MvvmAlerts.WinUI\Aula05MvvmAlerts.WinUI.csproj", "{B0E077DF-FFDC-4022-8DCA-A416BE3E91E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54DF976-0AEF-47EB-8A5E-969D4CA7546C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54DF976-0AEF-47EB-8A5E-969D4CA7546C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54DF976-0AEF-47EB-8A5E-969D4CA7546C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A54DF976-0AEF-47EB-8A5E-969D4CA7546C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54DF976-0AEF-47EB-8A5E-969D4CA7546C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54DF976-0AEF-47EB-8A5E-969D4CA7546C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B7364038-B264-42B7-A683-F33949D523D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7364038-B264-42B7-A683-F33949D523D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7364038-B264-42B7-A683-F33949D523D6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B7364038-B264-42B7-A683-F33949D523D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7364038-B264-42B7-A683-F33949D523D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7364038-B264-42B7-A683-F33949D523D6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8778DFC5-DEE9-4951-AC67-ADEBA4D64527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8778DFC5-DEE9-4951-AC67-ADEBA4D64527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8778DFC5-DEE9-4951-AC67-ADEBA4D64527}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8778DFC5-DEE9-4951-AC67-ADEBA4D64527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8778DFC5-DEE9-4951-AC67-ADEBA4D64527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8778DFC5-DEE9-4951-AC67-ADEBA4D64527}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B0E077DF-FFDC-4022-8DCA-A416BE3E91E5}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B0E077DF-FFDC-4022-8DCA-A416BE3E91E5}.Debug|Any CPU.Build.0 = Debug|x64
+		{B0E077DF-FFDC-4022-8DCA-A416BE3E91E5}.Release|Any CPU.ActiveCfg = Release|x64
+		{B0E077DF-FFDC-4022-8DCA-A416BE3E91E5}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A12A28-B7E4-4C53-88F0-C3DAB42FBC1B}
+	EndGlobalSection
+EndGlobal

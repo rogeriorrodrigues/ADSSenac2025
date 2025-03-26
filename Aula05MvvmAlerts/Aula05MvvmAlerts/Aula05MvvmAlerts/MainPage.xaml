@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel="clr-namespace:Aula05MvvmAlerts.ViewModels"
+             x:Class="Aula05MvvmAlerts.MainPage">
+    <ContentPage.BindingContext>
+        <viewmodel:MensagemViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <StackLayout Padding="20">
+            <Entry Placeholder="Digite uma mensagem" Text="{Binding Mensagem}"/>
+            <Button Text="Exibir mensagem" Command="{Binding ExibirMensagemCommand}"/>
+        </StackLayout>
+
+    </ScrollView>
+
+</ContentPage>
