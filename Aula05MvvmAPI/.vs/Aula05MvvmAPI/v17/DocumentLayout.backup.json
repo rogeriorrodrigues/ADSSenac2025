@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|solutionrelative:aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi\\viewmodels\\cepviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|solutionrelative:aula05mvvmapi\\aula05mvvmapi\\viewmodels\\cepviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|solutionrelative:aula05mvvmapi\\aula05mvvmapi\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|solutionrelative:aula05mvvmapi\\aula05mvvmapi\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi\\services\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|solutionrelative:aula05mvvmapi\\aula05mvvmapi\\services\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmapi\\aula05mvvmapi\\aula05mvvmapi\\models\\cepmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77BFF08-C134-42C4-A072-88D68DF210C3}|Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj|solutionrelative:aula05mvvmapi\\aula05mvvmapi\\models\\cepmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml.cs",
+              "RelativeToolTip": "Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:03:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml",
+              "RelativeToolTip": "Aula05MvvmAPI\\Aula05MvvmAPI\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T00:00:35.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CepViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\ViewModels\\CepViewModel.cs",
+              "RelativeDocumentMoniker": "Aula05MvvmAPI\\Aula05MvvmAPI\\ViewModels\\CepViewModel.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\ViewModels\\CepViewModel.cs",
+              "RelativeToolTip": "Aula05MvvmAPI\\Aula05MvvmAPI\\ViewModels\\CepViewModel.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA5wDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:55:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViaCepService.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\Services\\ViaCepService.cs",
+              "RelativeDocumentMoniker": "Aula05MvvmAPI\\Aula05MvvmAPI\\Services\\ViaCepService.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\Services\\ViaCepService.cs",
+              "RelativeToolTip": "Aula05MvvmAPI\\Aula05MvvmAPI\\Services\\ViaCepService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:53:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CepModel.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\Models\\CepModel.cs",
+              "RelativeDocumentMoniker": "Aula05MvvmAPI\\Aula05MvvmAPI\\Models\\CepModel.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\Models\\CepModel.cs",
+              "RelativeToolTip": "Aula05MvvmAPI\\Aula05MvvmAPI\\Models\\CepModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:52:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aula05MvvmAPI",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj",
+              "RelativeDocumentMoniker": "Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj",
+              "RelativeToolTip": "Aula05MvvmAPI\\Aula05MvvmAPI\\Aula05MvvmAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T23:51:28.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

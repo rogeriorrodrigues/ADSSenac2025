@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAPI", "Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI.csproj", "{D77BFF08-C134-42C4-A072-88D68DF210C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAPI.Droid", "Aula05MvvmAPI\Aula05MvvmAPI.Droid\Aula05MvvmAPI.Droid.csproj", "{A8BE1A0C-1E88-49BB-AE4B-37EC01C95A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05MvvmAPI.WinUI", "Aula05MvvmAPI\Aula05MvvmAPI.WinUI\Aula05MvvmAPI.WinUI.csproj", "{A5AAB9A2-354D-4D34-B53F-7B0D557C146D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77BFF08-C134-42C4-A072-88D68DF210C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77BFF08-C134-42C4-A072-88D68DF210C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77BFF08-C134-42C4-A072-88D68DF210C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77BFF08-C134-42C4-A072-88D68DF210C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BE1A0C-1E88-49BB-AE4B-37EC01C95A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BE1A0C-1E88-49BB-AE4B-37EC01C95A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BE1A0C-1E88-49BB-AE4B-37EC01C95A77}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A8BE1A0C-1E88-49BB-AE4B-37EC01C95A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BE1A0C-1E88-49BB-AE4B-37EC01C95A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BE1A0C-1E88-49BB-AE4B-37EC01C95A77}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A5AAB9A2-354D-4D34-B53F-7B0D557C146D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A5AAB9A2-354D-4D34-B53F-7B0D557C146D}.Debug|Any CPU.Build.0 = Debug|x64
+		{A5AAB9A2-354D-4D34-B53F-7B0D557C146D}.Release|Any CPU.ActiveCfg = Release|x64
+		{A5AAB9A2-354D-4D34-B53F-7B0D557C146D}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755B9985-780A-43F6-A89B-CB0B4C6D76D6}
+	EndGlobalSection
+EndGlobal

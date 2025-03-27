@@ -1,0 +1,14 @@
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.AssemblyInfo.cs
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.sourcelink.json
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\bin\Debug\net9.0\Aula05MvvmAPI.deps.json
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\bin\Debug\net9.0\Aula05MvvmAPI.dll
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\bin\Debug\net9.0\Aula05MvvmAPI.pdb
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\XamlC.stamp
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.dll
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\refint\Aula05MvvmAPI.dll
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\Aula05MvvmAPI.pdb
+C:\Users\roger\source\repos\SENAC\Aula05MvvmAPI\Aula05MvvmAPI\Aula05MvvmAPI\obj\Debug\net9.0\ref\Aula05MvvmAPI.dll
