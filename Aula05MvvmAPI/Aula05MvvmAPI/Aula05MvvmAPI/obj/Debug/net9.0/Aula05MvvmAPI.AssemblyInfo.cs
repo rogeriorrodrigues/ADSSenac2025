@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula05MvvmAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b25be3690ad82fa96170caea2dcb49117f4988a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e6c923c1ce1f833f64b3a7208fa714d17248a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula05MvvmAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula05MvvmAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

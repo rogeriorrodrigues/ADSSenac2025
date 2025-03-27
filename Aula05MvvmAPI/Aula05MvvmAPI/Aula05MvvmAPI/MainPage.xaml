@@ -14,10 +14,10 @@
 
             <Button Text="Buscar Endereço" Command="{Binding BuscarCepCommand}" />
 
-            <Label Text="{Binding Endereco.Logradouro}"/>
-            <Label Text="{Binding Endereco.Bairro}"/>
-            <Label Text="{Binding Endereco.Localidade}"/>
-            <Label Text="{Binding Endereco.Uf}"/>
+            <Label Text="{Binding Endereco.logradouro}"/>
+            <Label Text="{Binding Endereco.bairro}"/>
+            <Label Text="{Binding Endereco.localidade}"/>
+            <Label Text="{Binding Endereco.uf}"/>
 
         </VerticalStackLayout>
     </ScrollView>
