@@ -1,5 +1,5 @@
 
-# Hands-on Lab: Aplicação Avançada com Consumo da API Magic: The Gathering, Alertas e MVVM em .NET MAUI (3 horas)
+# Hands-on Lab: Aplicação Avançada com Consumo da API Magic: The Gathering, Alertas e MVVM em .NET MAUI
 
 ## Introdução
 Neste laboratório avançado, vocês irão construir uma aplicação completa utilizando o padrão MVVM em .NET MAUI. A aplicação consumirá dados detalhados da API REST do Magic: The Gathering, incluirá filtragem avançada, exibição de detalhes das cartas em alertas e uma interface aprimorada.
