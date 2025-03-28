@@ -12,6 +12,7 @@ Neste laboratório avançado, vocês irão construir uma aplicação completa ut
 2. Crie um projeto **.NET MAUI App** chamado `MagicCardsApp`.
 
 ## Etapa 2: Modelo Detalhado de Dados
+Crie o diretorio Models e adicione a classe Card
 
 ```csharp
 public class Card
@@ -29,6 +30,7 @@ public class Card
 ```
 
 ## Etapa 3: Serviço para Consumo da API
+Crie o diretório services e adicione a classe MagicService
 
 ```csharp
 using System.Net.Http;
@@ -49,6 +51,7 @@ public class MagicService
 ```
 
 ## Etapa 4: ViewModel com Separação Lógica Completa
+Crie o diretorio ViewModels e adicione a classe CardsViewModel
 
 ```csharp
 using System.Collections.ObjectModel;
