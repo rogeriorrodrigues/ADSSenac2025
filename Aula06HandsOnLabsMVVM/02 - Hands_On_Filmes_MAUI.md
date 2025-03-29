@@ -38,7 +38,7 @@ using System.Text.Json;
 public class MovieService
 {
     private readonly HttpClient _client = new HttpClient();
-    private const string apiKey = "YOUR_API_KEY";
+    private const string apiKey = "966c4f4f";
 
     public async Task<Movie> GetMovieAsync(string title)
     {
