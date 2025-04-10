@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmalerts\\aula05mvvmalerts\\aula05mvvmalerts\\viewmodels\\mensagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|solutionrelative:aula05mvvmalerts\\aula05mvvmalerts\\viewmodels\\mensagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmalerts\\aula05mvvmalerts\\aula05mvvmalerts\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|solutionrelative:aula05mvvmalerts\\aula05mvvmalerts\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|solutionrelative:aula05mvvmalerts\\aula05mvvmalerts\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmalerts\\aula05mvvmalerts\\aula05mvvmalerts\\viewmodels\\mensagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|solutionrelative:aula05mvvmalerts\\aula05mvvmalerts\\viewmodels\\mensagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|c:\\users\\roger\\source\\repos\\senac\\aula05mvvmalerts\\aula05mvvmalerts\\aula05mvvmalerts\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2853C7D7-55DF-41FE-B8BF-38ECD83B3A96}|Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts.csproj|solutionrelative:aula05mvvmalerts\\aula05mvvmalerts\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainViewModel.cs",
+              "RelativeToolTip": "Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:56:14.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainPage.xaml.cs",
@@ -39,26 +56,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainPage.xaml",
               "RelativeDocumentMoniker": "Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainPage.xaml",
               "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainPage.xaml",
               "RelativeToolTip": "Aula05MvvmAlerts\\Aula05MvvmAlerts\\MainPage.xaml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-26T23:01:19.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MensagemViewModel.cs",
               "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\ViewModels\\MensagemViewModel.cs",
               "RelativeDocumentMoniker": "Aula05MvvmAlerts\\Aula05MvvmAlerts\\ViewModels\\MensagemViewModel.cs",
               "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\Aula05MvvmAlerts\\ViewModels\\MensagemViewModel.cs",
               "RelativeToolTip": "Aula05MvvmAlerts\\Aula05MvvmAlerts\\ViewModels\\MensagemViewModel.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADgvyUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T22:51:36.738Z",
               "EditorCaption": ""

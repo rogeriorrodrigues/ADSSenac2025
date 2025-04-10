@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel="clr-namespace:MauiApp4.ViewModels"
+             x:Class="MauiApp4.MainPage">
+
+    <ContentPage.BindingContext>
+        <viewmodel:MovieViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="20" Spacing="15">
+        <Entry Placeholder="Título do filme" Text="{Binding SearchTitle}" />
+        <Button Text="Buscar Filme" Command="{Binding SearchMovieCommand}" />
+
+        <Frame BorderColor="LightGray" Padding="10" IsVisible="{Binding Movie}">
+            <StackLayout>
+                <Image Source="{Binding Movie.Poster}" HeightRequest="200" />
+                <Label Text="{Binding Movie.Title}" FontAttributes="Bold" FontSize="Medium" />
+                <Label Text="{Binding Movie.Year}" />
+                <Label Text="{Binding Movie.Genre}" />
+                <Label Text="{Binding Movie.imdbRating}" />
+                <Button Text="Mais Detalhes" Clicked="OnDetailsClicked" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

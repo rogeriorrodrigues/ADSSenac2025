@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula05MvvmAPI.Droid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e6c923c1ce1f833f64b3a7208fa714d17248a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4262ef9a7affb52329e87249f89b8909aad1c66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula05MvvmAPI.Droid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula05MvvmAPI.Droid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

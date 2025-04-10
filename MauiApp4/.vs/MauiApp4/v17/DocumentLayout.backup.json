@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|c:\\users\\roger\\source\\repos\\senac\\mauiapp4\\mauiapp4\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|c:\\users\\roger\\source\\repos\\senac\\mauiapp4\\mauiapp4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|c:\\users\\roger\\source\\repos\\senac\\mauiapp4\\mauiapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roger\\AppData\\Local\\Temp\\.vsdbgsrc\\b286204f932e09ea16c29dd6dd1a558ab2fc72c5\\MainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|c:\\users\\roger\\source\\repos\\senac\\mauiapp4\\mauiapp4\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|c:\\users\\roger\\source\\repos\\senac\\mauiapp4\\mauiapp4\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|c:\\users\\roger\\source\\repos\\senac\\mauiapp4\\mauiapp4\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81A2D34-F43B-4B60-BFA9-98A420952D39}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\App.xaml",
+              "RelativeDocumentMoniker": "MauiApp4\\App.xaml",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\App.xaml",
+              "RelativeToolTip": "MauiApp4\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T23:57:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\AppData\\Local\\Temp\\.vsdbgsrc\\b286204f932e09ea16c29dd6dd1a558ab2fc72c5\\MainPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b286204f932e09ea16c29dd6dd1a558ab2fc72c5\\MainPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\roger\\AppData\\Local\\Temp\\.vsdbgsrc\\b286204f932e09ea16c29dd6dd1a558ab2fc72c5\\MainPage.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b286204f932e09ea16c29dd6dd1a558ab2fc72c5\\MainPage.xaml.sg.cs [Read Only]",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:56:23.959Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiApp4\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:55:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp4\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp4\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T23:54:29.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\ViewModels\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\ViewModels\\MovieViewModel.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\ViewModels\\MovieViewModel.cs",
+              "RelativeToolTip": "MauiApp4\\ViewModels\\MovieViewModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAxwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:52:43.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\Services\\MovieService.cs \u2B24",
+              "RelativeToolTip": "MauiApp4\\Services\\MovieService.cs \u2B24",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:51:33.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\MauiApp4\\MauiApp4\\Models\\Movie.cs",
+              "RelativeToolTip": "MauiApp4\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:50:28.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
