@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula07Features", "Aula07Features\Aula07Features\Aula07Features.csproj", "{67BDF8EA-A810-498E-9AFE-D0C06064730B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula07Features.WinUI", "Aula07Features\Aula07Features.WinUI\Aula07Features.WinUI.csproj", "{B88822BB-2F04-43FE-A351-E916B5C7A455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BDF8EA-A810-498E-9AFE-D0C06064730B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BDF8EA-A810-498E-9AFE-D0C06064730B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BDF8EA-A810-498E-9AFE-D0C06064730B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BDF8EA-A810-498E-9AFE-D0C06064730B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88822BB-2F04-43FE-A351-E916B5C7A455}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B88822BB-2F04-43FE-A351-E916B5C7A455}.Debug|Any CPU.Build.0 = Debug|x64
+		{B88822BB-2F04-43FE-A351-E916B5C7A455}.Release|Any CPU.ActiveCfg = Release|x64
+		{B88822BB-2F04-43FE-A351-E916B5C7A455}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C078BF5D-2998-4C99-9CCE-DF05242B9219}
+	EndGlobalSection
+EndGlobal

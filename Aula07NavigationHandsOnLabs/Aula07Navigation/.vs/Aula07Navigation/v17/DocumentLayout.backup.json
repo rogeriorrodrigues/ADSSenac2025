@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|c:\\users\\roger\\source\\repos\\senac\\aula07navigationhandsonlabs\\aula07navigation\\aula07navigation\\aula07navigation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|solutionrelative:aula07navigation\\aula07navigation\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|c:\\users\\roger\\source\\repos\\senac\\aula07navigationhandsonlabs\\aula07navigation\\aula07navigation\\aula07navigation\\itemdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|solutionrelative:aula07navigation\\aula07navigation\\itemdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|c:\\users\\roger\\source\\repos\\senac\\aula07navigationhandsonlabs\\aula07navigation\\aula07navigation\\aula07navigation\\itemdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|solutionrelative:aula07navigation\\aula07navigation\\itemdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|c:\\users\\roger\\source\\repos\\senac\\aula07navigationhandsonlabs\\aula07navigation\\aula07navigation\\aula07navigation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|solutionrelative:aula07navigation\\aula07navigation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|c:\\users\\roger\\source\\repos\\senac\\aula07navigationhandsonlabs\\aula07navigation\\aula07navigation\\aula07navigation\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|solutionrelative:aula07navigation\\aula07navigation\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|c:\\users\\roger\\source\\repos\\senac\\aula07navigationhandsonlabs\\aula07navigation\\aula07navigation\\aula07navigation\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|solutionrelative:aula07navigation\\aula07navigation\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|c:\\users\\roger\\source\\repos\\senac\\aula07navigationhandsonlabs\\aula07navigation\\aula07navigation\\aula07navigation\\viewmodel\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121B7286-71B6-40AC-BC7D-5B1E95B42E8F}|Aula07Navigation\\Aula07Navigation\\Aula07Navigation.csproj|solutionrelative:aula07navigation\\aula07navigation\\viewmodel\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Aula07Navigation\\Aula07Navigation\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\AppShell.xaml.cs",
+              "RelativeToolTip": "Aula07Navigation\\Aula07Navigation\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T22:29:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml.cs",
+              "RelativeToolTip": "Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T22:28:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml",
+              "RelativeDocumentMoniker": "Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml",
+              "RelativeToolTip": "Aula07Navigation\\Aula07Navigation\\ItemDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T22:26:45.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aula07Navigation\\Aula07Navigation\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\MainPage.xaml.cs",
+              "RelativeToolTip": "Aula07Navigation\\Aula07Navigation\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T22:26:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Aula07Navigation\\Aula07Navigation\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\MainPage.xaml",
+              "RelativeToolTip": "Aula07Navigation\\Aula07Navigation\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T22:25:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\Viewmodel\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "Aula07Navigation\\Aula07Navigation\\Viewmodel\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\Viewmodel\\MainPageViewModel.cs",
+              "RelativeToolTip": "Aula07Navigation\\Aula07Navigation\\Viewmodel\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T22:24:42.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\Viewmodel\\ItemViewModel.cs",
+              "RelativeDocumentMoniker": "Aula07Navigation\\Aula07Navigation\\Viewmodel\\ItemViewModel.cs",
+              "ToolTip": "C:\\Users\\roger\\source\\repos\\SENAC\\Aula07NavigationHandsOnLabs\\Aula07Navigation\\Aula07Navigation\\Aula07Navigation\\Viewmodel\\ItemViewModel.cs",
+              "RelativeToolTip": "Aula07Navigation\\Aula07Navigation\\Viewmodel\\ItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T22:23:56.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

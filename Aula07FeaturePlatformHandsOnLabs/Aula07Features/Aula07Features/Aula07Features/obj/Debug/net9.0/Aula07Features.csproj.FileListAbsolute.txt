@@ -1,0 +1,14 @@
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\bin\Debug\net9.0\Aula07Features.deps.json
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\bin\Debug\net9.0\Aula07Features.dll
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\bin\Debug\net9.0\Aula07Features.pdb
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.AssemblyInfo.cs
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.sourcelink.json
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\XamlC.stamp
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.dll
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\refint\Aula07Features.dll
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\Aula07Features.pdb
+C:\Users\roger\source\repos\SENAC\Aula07FeaturePlatformHandsOnLabs\Aula07Features\Aula07Features\Aula07Features\obj\Debug\net9.0\ref\Aula07Features.dll

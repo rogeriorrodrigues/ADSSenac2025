@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aula07Features.MainPage">
+
+    <StackLayout Padding="20" Spacing="15">
+
+        <Button Text="Obter Localização" Clicked="OnGetLocationClicked" />
+
+        <Button Text="Ligar Lanterna" Clicked="OnFlashlightOnClicked" />
+
+        <Button Text="Desligar Lanterna" Clicked="OnFlashlightOffClicked" />
+
+        <Entry x:Name="TextEntry" Placeholder="Digite algo para falar" />
+        <Button Text="Falar Texto" Clicked="OnSpeakTextClicked" />
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\bin\Debug\net9.0\Aula07Navigation.deps.json
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\bin\Debug\net9.0\Aula07Navigation.dll
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\bin\Debug\net9.0\Aula07Navigation.pdb
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.AssemblyInfo.cs
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.sourcelink.json
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\XamlC.stamp
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.dll
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\refint\Aula07Navigation.dll
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\Aula07Navigation.pdb
+C:\Users\roger\source\repos\SENAC\Aula07NavigationHandsOnLabs\Aula07Navigation\Aula07Navigation\Aula07Navigation\obj\Debug\net9.0\ref\Aula07Navigation.dll
